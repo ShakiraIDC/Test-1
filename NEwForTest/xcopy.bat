@@ -1,1 +1,1 @@
-mkdir C://TestForTeamcity
+mkdir C:\\TestForTeamcity
